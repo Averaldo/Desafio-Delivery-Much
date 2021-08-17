@@ -1,0 +1,7 @@
+Resultado:
+Válidos = 20000
+Inválidos = 0
+Taxa de sucesso = 100.00%
+Taxa de falha = 0.00%
+Endpoints com erro:
+[]
